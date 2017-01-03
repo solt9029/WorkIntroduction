@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main>
+	<card>
+		<title>Fractal</title>
+		<img>fractal.jpg</img>
+		<text>This is a program that draws fractal.</text>
+		<url>Fractal.html</url>
+	</card>
+	<card>
+		<title>ISBN Management System</title>
+		<img>isbnmanagementsystem.png</img>
+		<text>This is a web page that you can save ISBN of the books you read.</text>
+		<url>ISBNManagementSystem.html</url>
+	</card>
+	<card>
+		<title>10 Fast Fingers Music Game Ver.</title>
+		<img>10fastfingersmusicgamever..png</img>
+		<text>This is a music game imitating a typing game which is called 10 Fast Fingers.</text>
+		<url>10FastFingersMusicGameVer..html</url>
+	</card>
+	<card>
+		<title>Taiko Editor</title>
+		<img>taikoeditor.png</img>
+		<text>This is a system that you can make tja file physically. All you have to do is to put magnets on this system.</text>
+		<url>TaikoEditor.html</url>
+	</card>
+	<card>
+		<title>Card List</title>
+		<img>cardlist.png</img>
+		<text>This is a web page that you can see the card list I created.</text>
+		<url>CardList.html</url>
+	</card>
+	<card>
+		<title>English Diary</title>
+		<img>englishdiary.png</img>
+		<text>This is a web log system that you have to use one specific English word to improve your vocabulary.</text>
+		<url>EnglishDiary.html</url>
+	</card>
+	<card>
+		<title>Solt Particles</title>
+		<img>soltparticles.png</img>
+		<text>This is a program to draw a lot of particles.</text>
+		<url>SoltParticles.html</url>
+	</card>
+	<card>
+		<title>Golf Game</title>
+		<img>golfgame.png</img>
+		<text>This is a simple golf game. This is very funny.</text>
+		<url>GolfGame.html</url>
+	</card>
+	<card>
+		<title>TOEIC Editor</title>
+		<img>toeiceditor.jpg</img>
+		<text>This is a web page that you can make your TOEIC part 5 questions easily and share them with your Twitter account.</text>
+		<url>TOEICEditor.html</url>
+	</card>
+	<card>
+		<title>Tubeat</title>
+		<img>tubeat.png</img>
+		<text>This is a music game with button controller. You can play this game with Twitter like function.</text>
+		<url>Tubeat.html</url>
+	</card>
+	<card>
+		<title>Solt Cube</title>
+		<img>soltcube.png</img>
+		<text>This is a 3D web page which shows many cubes.</text>
+		<url>SoltCube.html</url>
+	</card>
+	<card>
+		<title>SOLT9029</title>
+		<img>solt9029.png</img>
+		<text>This is my home page. I didn't use any CSS frameworks in this page.</text>
+		<url>SOLT9029.html</url>
+	</card>
+	<card>
+		<title>Sand Game</title>
+		<img>sandgame.png</img>
+		<text>Sand come from the top of the window. You can draw lines to change the movement of sand.</text>
+		<url>SandGame.html</url>
+	</card>
+	<card>
+		<title>Pitagora</title>
+		<img>pitagora.png</img>
+		<text>This is a program of pitagora simulator.</text>
+		<url>Pitagora.html</url>
+	</card>
+	<card>
+		<title>TOEIC Study Group LINE Bot</title>
+		<img>toeicstudygrouplinebot.png</img>
+		<text>This is a LINE bot. You can learn English.</text>
+		<url>TOEICStudyGroupLINEBot.html</url>
+	</card>
+	<card>
+		<title>Rotating Music Game</title>
+		<img>rotatingmusicgame.png</img>
+		<text>This is a music game that automatically rotates when you make a mistake.</text>
+		<url>RotatingMusicGame.html</url>
+	</card>
+	<card>
+		<title>TOEIC Generator</title>
+		<img>toeicgenerator.png</img>
+		<text>This is a generator that you can make questions by posting images.</text>
+		<url>TOEICGenerator.html</url>
+	</card>
+</main>
