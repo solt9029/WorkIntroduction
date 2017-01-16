@@ -102,4 +102,10 @@
 		<text>This is a generator that you can make questions by posting images.</text>
 		<url>TOEICGenerator.html</url>
 	</card>
+	<card>
+		<title>Edit Master</title>
+		<img>editmaster.png</img>
+		<text>This is an web application to create taiko scores.</text>
+		<url>EditMaster.html</url>
+	</card>
 </main>
