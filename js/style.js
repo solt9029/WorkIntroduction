@@ -53,14 +53,14 @@ function insertCards(cards,columnNum){
 			value+='<div class="card-block">';
 			value+='<h4 class="card-title">'+cards[i]["title"]+'</h4>';
 			value+='<p class="card-text">'+cards[i]["text"]+'</p>';
-			value+='<button id="'+cards[i]["url"]+'" class="btn btn-primary">View More</button>';
+			value+='<button id="'+cards[i]["url"]+'" class="btn btn-primary view-more">View More</button>';
 			value+='</div>';
 			value+='</div>';
 		}
 		value+='</div>';
 	}
 	$("#main").html(value);
-	$("button").click(function(){
+	$(".view-more").click(function(){
 		var loadFile="html/"+this.id;
 		$("#individual").load(loadFile);
 		var position=$("#individual").offset().top;
